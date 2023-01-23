@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"zaman.ims","l":"zaman.ims.app"},{"m":"zaman.ims","l":"zaman.ims.controller"},{"m":"zaman.ims","l":"zaman.ims.model"}];updateSearchResults();

@@ -1,0 +1,4 @@
+module:zaman.ims
+zaman.ims.app
+zaman.ims.controller
+zaman.ims.model
